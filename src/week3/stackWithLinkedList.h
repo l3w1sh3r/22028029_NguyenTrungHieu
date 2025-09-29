@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <stdexcept>
-#include <src/week2/linkedList.h>
+#include "src/week2/linkedList.h"
 
 class Stack
 {
