@@ -1,4 +1,4 @@
-#include <src/week2/linkedList.h>
+#include "src/week2/linkedList.h"
 using namespace std;
 
 Node::Node(int val) : data(val), next(nullptr), prev(nullptr) {} // Node constructor
